@@ -1,2 +1,1 @@
-# local
-workspace
+# 创建一个gulp项目
