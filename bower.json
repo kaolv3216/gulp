@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "description": "第一个gulp项目",
+  "main": "gulpfile.js",
+  "authors": [
+    "kaolv3216 <458137665@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kaolv3216/gulp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.7.2",
+    "bootstrap": "^4.1.1"
+  }
+}
